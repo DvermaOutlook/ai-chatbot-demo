@@ -1,4 +1,3 @@
 # ai-chatbot-demo
 AI Chatbot Repository
-
-Author - Deepak Verma
+Author - Deepak Verma (Chatbot Demo)
